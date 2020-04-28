@@ -79,3 +79,6 @@
 	path = components/esp_wifi/lib
 	url = ../../espressif/esp32-wifi-lib.git
 
+[submodule "components/homekit_adk/homekit_adk"]
+	path = components/homekit_adk/homekit_adk
+	url = ../../apple/HomeKitADK.git
